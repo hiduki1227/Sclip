@@ -1,4 +1,4 @@
-function (copy_txt) {
+function sclip(copy_txt) {
     var str = copy_txt;
     
     var listener = function(e){
